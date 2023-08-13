@@ -1,0 +1,7 @@
+# **Latar Belakang**
+
+Dalam era perdagangan online, pengiriman barang menjadi faktor penting dalam perkembangan industri tersebut. Perusahaan ekspedisi pengiriman bersaing untuk menjadi yang tercepat dan terjangkau dengan memperhatikan kepuasan konsumen sebagai parameter keberhasilan. Oleh karena itu, perusahaan ingin mengevaluasi rating yang diberikan oleh konsumen setiap kali melakukan pembelian untuk mengukur tingkat kepuasan konsumen. Perusahaan perlu melakukan analisis mendalam mengenai faktor-faktor yang menyebabkan penilaian buruk dan penanganannya, mengevaluasi dan meningkatkan proses pengiriman mereka, mengoptimalkan strategi penerimaan, pemindahan, penyimpanan, pengambilan, pengemasan, dan pengiriman barang di gudang pusat dan pemanfaatan merata gudang lainya, memberikan layanan barang tepat waktu pada beragam diskon, dan memperbaiki SDM Customer Care.
+
+# **Pernyataan Masalah**
+
+Dalam era perdagangan online yang terus berkembang, pengiriman barang menjadi faktor penting dalam kesuksesan perusahaan. Untuk meningkatkan kepuasan konsumen, perusahaan perlu menganalisis data yang ada untuk mengetahui rating yang diberikan oleh konsumen dan mengidentifikasi tren atau pola dalam layanan perusahaan yang dapat diperbaiki. Sebagai seorang analis data, tugas saya sebagai *Data Sciene* adalah membantu perusahaan mengidentifikasi tren dan pola dalam data mereka untuk memperbaiki layanan. Hasil analisis ini akan menjadi pertimbangan bagi Senior Manager Logistik.
